@@ -43,6 +43,6 @@ Planetas: Adicione ou remova planetas, customize suas cores, tamanhos e posiçõ
 Perguntas: Modifique as perguntas do quiz e suas respostas corretas.
 Marcador: Crie um novo marcador visual com um design personalizado.
 Desenvolvido em momento academico pelo Dev Renan de Oliveira Farias, em 27 horas diretas.
-
+comando S para afastar e W para aproximar 
 
 
